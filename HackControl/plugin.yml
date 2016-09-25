@@ -1,0 +1,11 @@
+name: HackControl
+version: 1.0
+main: com.ziogiok.control.Main
+author: zioGiok	
+commands:
+    control:
+        description: "Teletrasporta te e il player da controllare nel luogo preimpostato"      
+    setzona:
+        description: "Setta la zona di teletrasporto voluta nella tua posizione"   
+    cfinish:
+        description: "Termina il controllo su un player"   
